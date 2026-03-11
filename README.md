@@ -17,6 +17,7 @@
 # why data fundation matters or the difference in having a foundation
 
 
+
        
            |without foundation |data foundation |
            | :--- | ---: |
