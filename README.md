@@ -8,7 +8,13 @@
 
  ## data foundation mainliy has four pillars
           
-         -data intake,the process of collecting data from varoius sources
-         -data storage and libray,once collected data needs a home
-         -data governance and quality
-         -data accessibility
+         - data intake,the process of collecting data from varoius sources
+         - data storage and libray,once collected data needs a home
+         - data governance and quality 
+         - data accessibility
+
+
+# why data fundation matters or the difference in having a foundation
+
+| :--- | : ---|
+| : -- | : ---|
