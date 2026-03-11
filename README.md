@@ -16,9 +16,9 @@
 
 # why data fundation matters or the difference in having a foundation
 
-       | data foundation | without foundation |
-       | : -- | : ---|
-       | data is centralized and searchable| data is scattered and siloed|
-       |dashboards update automatically|reports take days to compile|
-        |strict access and controls and auditing|high risks of security breaches|
-        AI models trained on clean verified data|AI models biased or wrong results|
+        | data foundation | without foundation |
+        | : -- | : ---|
+        | data is centralized and searchable| data is scattered and siloed|
+        | dashboards update automatically| reports take days to compile|
+        | strict access and controls and auditing| high risks of security breaches|
+        | AI models trained on clean verified data| AI models biased or wrong results|
