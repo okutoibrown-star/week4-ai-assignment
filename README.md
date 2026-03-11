@@ -18,7 +18,7 @@
 
         | data foundation | without foundation |
         
-        | : -- | : ---|
+        | : -- | ---:|
         | data is centralized and searchable| data is scattered and siloed|
         | dashboards update automatically| reports take days to compile|
         | strict access and controls and auditing| high risks of security breaches|
