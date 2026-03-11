@@ -16,8 +16,8 @@
 
 # why data fundation matters or the difference in having a foundation
 
+
         | data foundation | without foundation |
-        
         | -- | ---|
         | data is centralized and searchable| data is scattered and siloed|
         | dashboards update automatically| reports take days to compile|
