@@ -31,7 +31,7 @@
    the complex ecosystems of data pipelines,goernance and infrastructureis the true predictor of A.i succes
 
    
-      **the three A's are**
+         ** the three A's are **
       
       + data availability
       + data  accessibility
