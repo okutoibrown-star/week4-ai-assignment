@@ -22,4 +22,14 @@
 |reports take days to compile| |dashboards update automatically |
  |high risks of security breaches |strict access and controls and auditing |
  |AI models biased or wrong results|AI models trained on clean verified data |
+
+
+ # what is a
+   in data foundation,data is key and an asset thus maximum focus is placed on it.Data being the money in Gen A.i it must be protected and systems built around it,common belief is alogorithimic sophitication is key in reality most advance models fail if the have unmanaged and weak data.
+
+   the complex ecosystems of data pipelines,goernance and infrastructureis the true predictor of A.i succes
+      **the three A's are**
+      + data availability
+      + data  accessibility
+      + data accuracy
  
