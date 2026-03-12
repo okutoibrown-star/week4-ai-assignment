@@ -26,9 +26,9 @@
 
  # what is a
  
-   in data foundation,data is key and an asset thus maximum focus is placed on it.Data being the money in Gen A.i it must be protected and systems built around it,common belief is alogorithimic sophitication is key in reality most advance models fail if the have unmanaged and weak data.
+   in data foundation,data is key and an asset thus maximum focus is placed on it.Data being the money in Gen A.i it must be protected and systems built around it,common belief is alogorithimic sophistication is key in reality most advance models fail if they have unmanaged and weak data.
 
-   the complex ecosystems of data pipelines,goernance and infrastructureis the true predictor of A.i succes 
+   the complex ecosystems of data pipelines,governance and infrastructureis the true predictor of A.i succes 
    
 
    
