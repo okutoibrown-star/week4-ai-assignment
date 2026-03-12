@@ -32,7 +32,7 @@
    
 
    
-    ## the three A's are
+ ## the three A's are
          
               + data availability
               + data  accessibility
