@@ -19,7 +19,7 @@
  |without foundation |data foundation |  
  | :--- | ---:|            
 |data is scattered and siloed |data is centralized and searchable |
-|reports take days to compile| |dashboards update automatically |
+|reports take days to compile|dashboards update automatically |
  |high risks of security breaches |strict access and controls and auditing |
  |AI models biased or wrong results|AI models trained on clean verified data |
 
